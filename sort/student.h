@@ -1,0 +1,15 @@
+//
+// Created by R on 2020/2/5.
+//
+
+#ifndef POSTGRADUATEENTRANCEEXAMINATION_SORT_STUDENT_H
+#define POSTGRADUATEENTRANCEEXAMINATION_SORT_STUDENT_H
+
+
+struct student {
+    int num;
+    int score;
+};
+
+
+#endif //POSTGRADUATEENTRANCEEXAMINATION_SORT_STUDENT_H

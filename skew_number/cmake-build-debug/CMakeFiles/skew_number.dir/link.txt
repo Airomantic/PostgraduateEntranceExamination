@@ -1,0 +1,3 @@
+"E:\CLion\here\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\skew_number.dir/objects.a
+E:\CLion\MinGW\mingw64\bin\ar.exe cr CMakeFiles\skew_number.dir/objects.a @CMakeFiles\skew_number.dir\objects1.rsp
+E:\CLion\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\skew_number.dir/objects.a -Wl,--no-whole-archive  -o skew_number.exe -Wl,--out-implib,libskew_number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\skew_number.dir\linklibs.rsp

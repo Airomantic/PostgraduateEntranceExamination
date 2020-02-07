@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CLion/Project/PostgraduateEntranceExamination_Sort_node/Node.h
+
+E:/CLion/Project/PostgraduateEntranceExamination_Sort_node/main.cpp
+iostream
+-
+Node.h
+E:/CLion/Project/PostgraduateEntranceExamination_Sort_node/Node.h
+
